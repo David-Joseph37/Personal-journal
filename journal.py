@@ -280,3 +280,5 @@ else:
         with col2:
             if st.button("No, Keep My Account"):
                 del st.session_state["confirm_delete_account"]
+
+//thank you
